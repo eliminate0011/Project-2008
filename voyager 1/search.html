@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Search / PROJECT 2008</title>
+  <link rel="icon" type="image/png" href="assets/images/favicon.png">
+  <link rel="apple-touch-icon" href="assets/images/net-renewal-center-logo.png">
+  <link rel="stylesheet" href="css/archive.css">
+</head>
+<body>
+  <div class="site-frame">
+    <header class="topline">
+      <div><span class="system-mark">FRONT-END SEARCH</span> / NO NETWORK BACKEND DETECTED</div>
+      <nav class="nav" aria-label="Archive navigation">
+        <a href="index.html">Home</a><a href="timeline.html">Timeline</a><a href="interviews.html">Interviews</a><a href="dossiers.html">Dossiers</a><a href="omega.html">Omega</a><a href="project2008.html">Project 2008</a><a href="archive.html">Archive</a><a href="search.html">Search</a>
+      </nav>
+    </header>
+    <main class="section">
+      <h1>Search</h1>
+      <p class="subtitle">People, projects, events, archive IDs, documents, and locations.</p>
+      <div class="search-box">
+        <input data-search-input type="search" value="McCarthy" aria-label="Search archive">
+        <select data-search-scope aria-label="Search scope">
+          <option value="all">All Records</option>
+          <option value="people">People</option>
+          <option value="projects">Projects</option>
+          <option value="events">Events</option>
+          <option value="archiveIds">Archive IDs</option>
+          <option value="documents">Documents</option>
+          <option value="locations">Locations</option>
+        </select>
+      </div>
+      <div class="cards" data-search-results></div>
+    </main>
+    <footer>Search runs entirely in the browser against local JSON files.</footer>
+  </div>
+  <script src="js/archive.js"></script>
+</body>
+</html>

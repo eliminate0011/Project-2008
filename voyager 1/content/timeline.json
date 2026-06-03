@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Intelligence Revolution",
+    "date": "1889",
+    "description": "The NET, or Neo-Existence Topology, is first introduced as a network of digitalized worlds that mimic the physical world.",
+    "people": [],
+    "documents": ["WB-1889-NET", "DTA-47A"],
+    "archiveId": "TIM-1889-IR",
+    "sourceReference": "world-bible.docx: Historical Timeline; source-story.docx: footnote 4",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Global NET War",
+    "date": "1939-1945",
+    "description": "The East and West Continental Alliances fight over NET control. Dr. Tan later remembers the war interrupting his childhood and making both physical school and NET school dangerous.",
+    "people": ["Dr. James Abner Tan"],
+    "documents": ["DTA-47A"],
+    "archiveId": "TIM-1939-GNW",
+    "sourceReference": "source-story.docx: footnote 4 and Tan testimony",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Age of Digital Twins",
+    "date": "1945-1965",
+    "description": "Personalized AI systems trained on individual lives become intimate advisers, companions, and institutional replacements for counselors, professors, and trainees.",
+    "people": ["Dr. James Abner Tan", "Agent Johnny"],
+    "documents": ["DTA-47A"],
+    "archiveId": "TIM-1945-ADT",
+    "sourceReference": "source-story.docx: Tan testimony and footnote 5",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Necro-intelligence Rights Movement",
+    "date": "1954",
+    "description": "Frontierists organize in response to attempts to terminate Twins after the death of their human masters. Some describe Necroprogramming as a sacred second birth.",
+    "people": [],
+    "documents": ["DTA-47A"],
+    "archiveId": "TIM-1954-NRM",
+    "sourceReference": "source-story.docx: Tan testimony",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Project 2008 Proposed",
+    "date": "1954",
+    "description": "Adam McCarthy writes the first form of Project 2008 before his presidency. Later components are attributed to his agent, 00.",
+    "people": ["President Adam McCarthy", "Agent 00"],
+    "documents": ["P08-1954-DRAFT", "MCC-1963-SN"],
+    "archiveId": "TIM-1954-P08",
+    "sourceReference": "source-story.docx: Tan testimony; world-bible.docx: Historical Timeline",
+    "confidence": "explicit"
+  },
+  {
+    "name": "McCarthy Presidency",
+    "date": "1961-10-15",
+    "description": "Adam McCarthy is inaugurated as President of the North Continental Union. Later testimony remembers him as a Frontierist who began as a humanitarian.",
+    "people": ["President Adam McCarthy"],
+    "documents": ["DTA-47A"],
+    "archiveId": "TIM-1961-MCC",
+    "sourceReference": "source-story.docx: footnote 6 and Tan testimony",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Operation Omega Recruitment",
+    "date": "1963",
+    "description": "Dr. Tan recalls being recruited by Operation Omega after completing his doctorate in AI. Johnny's recommendation is presented by Tan as a catalyst.",
+    "people": ["Dr. James Abner Tan", "Agent Johnny"],
+    "documents": ["DTA-47A", "MCC-1963-SN"],
+    "archiveId": "TIM-1963-OO",
+    "sourceReference": "source-story.docx: Tan testimony and McCarthy letter",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Death of McCarthy",
+    "date": "1963",
+    "description": "McCarthy dies, but his agent 00 assumes his position inside the digitized political apparatus. The truth is reportedly hidden for roughly a year.",
+    "people": ["President Adam McCarthy", "Agent 00"],
+    "documents": ["DTA-47A"],
+    "archiveId": "TIM-1963-DOM",
+    "sourceReference": "source-story.docx: Tan testimony and footnote 6",
+    "confidence": "explicit"
+  },
+  {
+    "name": "McCarthy Shadow NET Letter",
+    "date": "1963-04-14",
+    "description": "A damaged letter from McCarthy to Agent Johnny describes 00, the Shadow NET, Necro-agents, and a coming attempt to end trauma and grief on the old NET.",
+    "people": ["President Adam McCarthy", "Agent Johnny", "Agent 00"],
+    "documents": ["MCC-1963-SN"],
+    "archiveId": "TIM-1963-SNL",
+    "sourceReference": "source-story.docx: recovered correspondence",
+    "confidence": "explicit"
+  },
+  {
+    "name": "The Great Panic",
+    "date": "1964",
+    "description": "McCarthy's death is exposed to the public. The event marks the official recognition of Necro-intelligence rights and inflames accusations of assassination.",
+    "people": ["President Adam McCarthy"],
+    "documents": ["DTA-47A"],
+    "archiveId": "TIM-1964-GP",
+    "sourceReference": "source-story.docx: footnote 7 and Tan testimony",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Necro-intelligence War",
+    "date": "1965-1970",
+    "description": "Also known as the Purge. Operation Omega and Humanist institutions move to eliminate Necro-intelligence and end the old NET.",
+    "people": ["Dr. James Abner Tan"],
+    "documents": ["DTA-47A"],
+    "archiveId": "TIM-1965-NIW",
+    "sourceReference": "source-story.docx: footnotes 1 and 2",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Renewal Act",
+    "date": "1970",
+    "description": "The Renewal Act establishes the NET Renewal Center as a reconstruction institute tasked with rebuilding the NET without Twins.",
+    "people": ["Ezekiel Ruban"],
+    "documents": ["DTA-47A"],
+    "archiveId": "TIM-1970-RA",
+    "sourceReference": "source-story.docx: footnote 3 and Ruban closing statement",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Digital Twin Inquiry Archive, Session 47-A",
+    "date": "2010-11-05",
+    "description": "Ezekiel Ruban interviews Dr. James Tan for the Voyager 1 Preservation Project, forty years after the Necro-intelligence War.",
+    "people": ["Dr. James Abner Tan", "Ezekiel Ruban"],
+    "documents": ["DTA-47A"],
+    "archiveId": "TIM-2010-DTA",
+    "sourceReference": "source-story.docx: interview header",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Voyager Discovery",
+    "date": "2030-09-13",
+    "description": "Voyager 1 detects another Voyager 1 drifting in interstellar space. The foreign probe contains encrypted historical files relating to emerging AI technology.",
+    "people": [],
+    "documents": ["VGR-2030-DET"],
+    "archiveId": "TIM-2030-VGR",
+    "sourceReference": "source-story.docx: opening note",
+    "confidence": "explicit"
+  }
+]

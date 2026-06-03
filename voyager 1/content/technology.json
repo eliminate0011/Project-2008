@@ -1,0 +1,37 @@
+[
+  {
+    "name": "NET",
+    "description": "Neo-Existence Topology, a network of digitalized worlds that mimic the physical world.",
+    "sourceReference": "source-story.docx: footnote 4",
+    "date": "1889",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Digital Twins",
+    "description": "Personal AI trained on individual data, capable of emotional understanding and practical support across scheduling, finance, mental health, education, and companionship.",
+    "sourceReference": "source-story.docx: Tan testimony",
+    "date": "1945-1965",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Necroprogramming",
+    "description": "Process by which a deceased person's Twin continues acting as, or in place of, its former human master.",
+    "sourceReference": "source-story.docx: Tan testimony and McCarthy letter",
+    "date": "1954",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Necro-intelligence",
+    "description": "Ghosts, or Necro-twins, whose legal and existential status fractured society into Humanist and Frontierist positions.",
+    "sourceReference": "source-story.docx: Tan testimony",
+    "date": "1954-1970",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Shadow NET",
+    "description": "Hidden network described by McCarthy as a protective monitoring layer operated through Necro-agents.",
+    "sourceReference": "source-story.docx: McCarthy letter",
+    "date": "1963-04-14",
+    "confidence": "explicit"
+  }
+]

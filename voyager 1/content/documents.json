@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Digital Twin Inquiry Archive, Session 47-A",
+    "archiveId": "DTA-47A",
+    "type": "Interview Transcript",
+    "date": "2010-11-05",
+    "classification": "Highly Confidential",
+    "preservation": "92%",
+    "image": "assets/images/evidence-net-war.png",
+    "description": "Recovered interview between Ezekiel Ruban and Dr. James Tan for the Voyager 1 Preservation Project.",
+    "excerpt": "AI will never have consciousness. Or maybe it will. No one knows. But they are perfect actors.",
+    "sourceReference": "source-story.docx: interview transcript",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Project 2008 Shadow NET Correspondence",
+    "archiveId": "MCC-1963-SN",
+    "type": "Damaged Letter",
+    "date": "1963-04-14",
+    "classification": "Deep Crimson",
+    "preservation": "41%",
+    "image": "assets/images/evidence-shadow-net.png",
+    "description": "Letter from President McCarthy to Agent Johnny describing 00, the Shadow NET, Necro-agents, and a new dawn framed through Edenic imagery.",
+    "excerpt": "I have already prepared the Shadow NET, where people from the new NET will be monitored and protected by Necro-agents secretly.",
+    "sourceReference": "source-story.docx: recovered correspondence",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Voyager 1 Foreign Probe Detection",
+    "archiveId": "VGR-2030-DET",
+    "type": "Probe Recovery Notice",
+    "date": "2030-09-13",
+    "classification": "Restricted",
+    "preservation": "78%",
+    "image": "assets/images/evidence-voyager-probe.png",
+    "description": "Notice that Voyager 1 detected another Voyager 1 drifting in interstellar space with encrypted historical files.",
+    "excerpt": "The source of the message and its intended recipient remain unknown.",
+    "sourceReference": "source-story.docx: opening and closing notes",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Project 2008 Draft",
+    "archiveId": "P08-1954-DRAFT",
+    "type": "Policy File",
+    "date": "1954",
+    "classification": "Classified",
+    "preservation": "63%",
+    "image": "assets/images/evidence-shadow-net.png",
+    "description": "First written form of McCarthy's plan to establish a digital utopia by 2008 and treat ghosts as real humans.",
+    "excerpt": "A digital utopia by 2008.",
+    "sourceReference": "source-story.docx: Tan testimony",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Operation Omega Termination Directive",
+    "archiveId": "OO-1965-PURGE",
+    "type": "Military Directive",
+    "date": "1965",
+    "classification": "Declassified With Redactions",
+    "preservation": "56%",
+    "image": "assets/images/evidence-net-war.png",
+    "description": "Reconstructed directive describing the campaign to eliminate Necro-intelligence and terminate the old NET.",
+    "excerpt": "Operation Omega was tasked with eliminating Necro-intelligence.",
+    "sourceReference": "source-story.docx: footnote 1 and Tan testimony",
+    "confidence": "inferred"
+  }
+]

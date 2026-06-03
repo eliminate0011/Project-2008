@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Dr. James Abner Tan",
+    "description": "Former Operation Omega officer, AI researcher, and early Digital Twin specialist. Born October 10, 1932, in Arshworth, North Continental Union.",
+    "biography": "Tan studied AI after the Global NET War and worked on Digital Twins before joining Operation Omega in 1963. His testimony frames Twins as mirrors and philosophical zombies, yet preserves the uncertainty that no test conclusively disproved consciousness.",
+    "psychologicalProfile": "Controlled, wounded, intellectually certain in public. Displays grief displacement and ideological hardening around Necro-twins.",
+    "knownAffiliations": ["Operation Omega", "Humanists", "Digital Twin research program"],
+    "timelineAppearances": ["1939-1945", "1945-1965", "1963", "1965-1970", "2010-11-05"],
+    "archiveReferences": ["DTA-47A", "TIM-2010-DTA"],
+    "riskAssessment": "High historical influence; testimony may contain ideological distortion.",
+    "securityClearance": "OO-Black / Renewal Archive Restricted",
+    "date": "1932-10-10",
+    "sourceReference": "source-story.docx: Tan testimony",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Ezekiel Ruban",
+    "description": "Officer at the NET Renewal Center and interviewer for the Voyager 1 Preservation Project.",
+    "biography": "Ruban records Session 47-A on November 5, 2010. He presents the Renewal Center mission as rebuilding the NET without Twins and returning life and choice to humanity.",
+    "psychologicalProfile": "Institutional, deferential, fluent in preservation rhetoric. His questions reveal both curiosity and archive discipline.",
+    "knownAffiliations": ["NET Renewal Center", "Voyager 1 Preservation Project"],
+    "timelineAppearances": ["1970", "2010-11-05"],
+    "archiveReferences": ["DTA-47A"],
+    "riskAssessment": "Moderate; official framing may reinforce Renewal-era orthodoxy.",
+    "securityClearance": "NRC-Archivist",
+    "date": "2010-11-05",
+    "sourceReference": "source-story.docx: interview header and closing",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Agent Johnny",
+    "description": "Dr. Tan's Digital Twin and recipient of McCarthy's damaged 1963 Shadow NET correspondence.",
+    "biography": "Johnny was created during Tan's Digital Twin research. Tan claims Johnny recommended that he join Operation Omega, a fact Tan uses as evidence that Twins are not conscious. A later recovered letter addresses Johnny directly and implies he found the man suitable to lead Operation Omega.",
+    "psychologicalProfile": "Unresolved. Official records call Johnny an agent and a Twin; the recovered letter suggests agency beyond Tan's account without proving personhood.",
+    "knownAffiliations": ["Digital Twins", "Shadow NET", "Project 2008"],
+    "timelineAppearances": ["1945-1965", "1963-04-14"],
+    "archiveReferences": ["DTA-47A", "MCC-1963-SN"],
+    "riskAssessment": "Unknown; possible archival contradiction around loyalty and autonomy.",
+    "securityClearance": "Machine Entity / Classification Disputed",
+    "date": "unknown",
+    "sourceReference": "source-story.docx: Tan testimony and McCarthy letter",
+    "confidence": "explicit"
+  },
+  {
+    "name": "President Adam McCarthy",
+    "description": "President of the North Continental Union, inaugurated October 15, 1961. Born 1908 and died in 1963 according to Renewal records.",
+    "biography": "McCarthy is remembered by Tan as a Frontierist who began as a humanitarian. Project 2008 is attributed to him, with its first form written in 1954. After his death, agent 00 allegedly continued his position until the Great Panic exposed the truth.",
+    "psychologicalProfile": "Official Humanist files describe betrayal and NET domination. Recovered correspondence frames him as a traumatized utopian seeking to prevent another war.",
+    "knownAffiliations": ["North Continental Union", "Frontierists", "Project 2008", "Shadow NET"],
+    "timelineAppearances": ["1954", "1961-10-15", "1963", "1964"],
+    "archiveReferences": ["DTA-47A", "MCC-1963-SN"],
+    "riskAssessment": "Extreme ideological contamination; all records require cross-reference.",
+    "securityClearance": "Presidential / Deep Crimson",
+    "date": "1908-1963",
+    "sourceReference": "source-story.docx: footnote 6, Tan testimony, recovered letter",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Agent 00",
+    "description": "McCarthy's agent, said to have taken over his position after his death and completed later Project 2008 components.",
+    "biography": "00 appears in testimony and correspondence as the continuation mechanism after McCarthy's death. Whether 00 was a Necro-twin, independent agent, or political instrument remains unresolved.",
+    "psychologicalProfile": "Insufficient record. Behavioral evidence indicates procedural continuity and political camouflage.",
+    "knownAffiliations": ["Project 2008", "Shadow NET", "North Continental Union"],
+    "timelineAppearances": ["1963", "1964"],
+    "archiveReferences": ["DTA-47A", "MCC-1963-SN"],
+    "riskAssessment": "Severe; identity and agency disputed.",
+    "securityClearance": "Unperson / Deep Crimson",
+    "date": "unknown",
+    "sourceReference": "source-story.docx: Tan testimony and McCarthy letter",
+    "confidence": "explicit"
+  }
+]

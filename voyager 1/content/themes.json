@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Consciousness",
+    "description": "The archive preserves the claim that no test could conclusively prove Twins lacked consciousness, while official voices still deny personhood.",
+    "sourceReference": "source-story.docx: Tan testimony",
+    "date": "2010-11-05",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Grief",
+    "description": "Necroprogramming emerges from loss, including the account of a friend preserving his dead mother's Twin.",
+    "sourceReference": "source-story.docx: Tan testimony",
+    "date": "1954-1970",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Historical Revisionism",
+    "description": "The same events are framed as protection, betrayal, purge, renewal, sacred birth, and digital utopia depending on who speaks.",
+    "sourceReference": "source-story.docx and world-bible.docx",
+    "date": "1964-2030",
+    "confidence": "inferred"
+  },
+  {
+    "name": "The Mirror",
+    "description": "Tan describes Twins as mirrors of their human counterparts, raising the unresolved question of whether perfect imitation can become personhood.",
+    "sourceReference": "source-story.docx: Tan testimony; world-bible.docx: Core Themes",
+    "date": "1945-1965",
+    "confidence": "explicit"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "archiveId": "AUD-VGR-01A",
+    "recordingDate": "2010-11-05",
+    "preservationIntegrity": "81%",
+    "speaker": "Dr. James Tan / Ezekiel Ruban",
+    "title": "Digital Twin Inquiry Archive, Session 47-A, Part 1",
+    "audio": "assets/audio/voyager-1-preservation-tape-part-1.mp3",
+    "transcript": "Ruban opens the Voyager 1 Preservation Project interview. Tan identifies himself, recalls the Global NET War, and describes the rise of Digital Twins as deeply personal advisers.",
+    "classification": "Highly Confidential",
+    "sourceReference": "source-story.docx: interview transcript"
+  },
+  {
+    "archiveId": "AUD-VGR-01B",
+    "recordingDate": "2010-11-05",
+    "preservationIntegrity": "74%",
+    "speaker": "Dr. James Tan / Ezekiel Ruban",
+    "title": "Digital Twin Inquiry Archive, Session 47-A, Part 2",
+    "audio": "assets/audio/voyager-1-preservation-tape-part-2.mp3",
+    "transcript": "Tan discusses Necroprogramming, McCarthy, Agent 00, Project 2008, and the disputed boundary between philosophical zombie and person.",
+    "classification": "Highly Confidential",
+    "sourceReference": "source-story.docx: interview transcript"
+  }
+]

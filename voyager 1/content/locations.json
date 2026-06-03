@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Arshworth",
+    "description": "Small town in the North Continental Union and birthplace of Dr. James Abner Tan.",
+    "sourceReference": "source-story.docx: Tan testimony",
+    "date": "1932-10-10",
+    "confidence": "explicit"
+  },
+  {
+    "name": "North Continental Union",
+    "description": "Political state associated with Arshworth and President Adam McCarthy.",
+    "sourceReference": "source-story.docx: Tan testimony and footnote 6",
+    "date": "1908-1963",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Old NET",
+    "description": "The pre-Renewal digital world where Twins, ghosts, ideologies, and human profiles became indistinguishable enough to trigger institutional collapse.",
+    "sourceReference": "source-story.docx: Tan testimony and McCarthy letter",
+    "date": "1889-1970",
+    "confidence": "inferred"
+  },
+  {
+    "name": "Shadow NET",
+    "description": "A hidden network prepared by McCarthy where people from the new NET would be monitored and protected by Necro-agents.",
+    "sourceReference": "source-story.docx: McCarthy letter",
+    "date": "1963-04-14",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Interstellar Space",
+    "description": "Region where Voyager 1 detected another Voyager 1 containing encrypted historical files.",
+    "sourceReference": "source-story.docx: opening note",
+    "date": "2030-09-13",
+    "confidence": "explicit"
+  }
+]

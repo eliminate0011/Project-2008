@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Humanists",
+    "description": "Ideological faction opposing Necro-intelligence and regarding ghosts as machines built to replace humanity.",
+    "sourceReference": "source-story.docx: Tan testimony; world-bible.docx: Major Factions",
+    "date": "1954-1970",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Frontierists",
+    "description": "Faction recognizing ghosts as conscious beings and defending Necroprogramming as personal, sacred, or politically protected.",
+    "sourceReference": "source-story.docx: Tan testimony; world-bible.docx: Major Factions",
+    "date": "1954-1970",
+    "confidence": "explicit"
+  },
+  {
+    "name": "Operation Omega",
+    "description": "Humanist institution established during the Necro-intelligence War and tasked with eliminating Necro-intelligence.",
+    "sourceReference": "source-story.docx: footnote 1",
+    "date": "1965-1970",
+    "confidence": "explicit"
+  },
+  {
+    "name": "NET Renewal Center",
+    "description": "Reconstruction institute established under the Renewal Act to rebuild the NET without Twins.",
+    "sourceReference": "source-story.docx: footnote 3 and Ruban closing",
+    "date": "1970",
+    "confidence": "explicit"
+  }
+]
